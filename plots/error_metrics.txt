@@ -1,0 +1,5 @@
+Error Metrics (MSE):
+X-coordinate MSE: 191.105637
+Y-coordinate MSE: 334.610551
+Z-coordinate MSE: 456.151655
+Total MSE: 327.289281
